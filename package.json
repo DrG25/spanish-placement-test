@@ -1,5 +1,5 @@
 {
-  "name": "spanish-placement-test",
+  "name": "spanish-placement-fixed",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
